@@ -4,7 +4,7 @@ This repository contains the code and resources for the paper: **Arabic Calligra
 ## Paper Citation
 If you use this repository or our paper in your work, please consider citing us as follows:
 
-'''
+```
 @inproceedings{azzem2023arabic,
   title={Arabic Calligraphy Generation Through Image-to-Image Translation Using Generative Adversarial Networks (GANs)},
   author={HADJ AZZEM, Yousra Chahinez and Moussaoui, Abdelouahab and Berrimi, Mohamed},
@@ -14,6 +14,5 @@ If you use this repository or our paper in your work, please consider citing us 
   organization={IEEE},
   doi={10.1109/EICEEAI.2023.10590292}
 }
-
-'''
+```
 
