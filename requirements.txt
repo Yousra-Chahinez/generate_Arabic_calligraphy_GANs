@@ -1,0 +1,14 @@
+# Requirements for the project
+
+# Standard Libraries
+# Python 3.6 or later is recommended
+
+# Required Libraries
+numpy                   # For numerical operations and array manipulations
+opencv-python           # For image processing tasks
+matplotlib              # For plotting and visualizing data
+Pillow                  # For image processing (PIL)
+tqdm                    # For displaying progress bars
+torch                   # For deep learning and neural network operations
+torchvision             # For common datasets, model architectures, and image transformations
+torchsummary            # To display a summary of the model architecture
