@@ -1,3 +1,4 @@
+# --------------- Generates images of Arabic words with different fonts and saves them to an output directory. --------------- #
 from PIL import Image, ImageDraw, ImageFont
 from bidi.algorithm import get_display
 import arabic_reshaper
